@@ -2,8 +2,6 @@ interface ContainerProps {
     children: React.ReactNode
 }
 
-import { Children } from "react";
-
 const Container = (props: ContainerProps) => {
     const { children } = props
     return (

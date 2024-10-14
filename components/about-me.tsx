@@ -51,7 +51,7 @@ const AboutMe = () => {
                         ))}
                     </div>
                     <p className="my-8">I am a passionate intern developer with a deep love for new technologies 
-                        and a strong desire to create innovative solutions. When I'm not coding, you can find me 
+                        and a strong desire to create innovative solutions. When I am not coding, you can find me 
                         jamming with my rock band, hitting the basketball court, or diving into fascinating articles 
                         about music and science. As a dedicated family man, I strive to balance my professional 
                         aspirations with my personal life, drawing inspiration from both my experiences as a 
